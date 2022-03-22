@@ -1,0 +1,18 @@
+footer {
+    min-height: 300px;
+    margin: -8px;
+    margin-top: 8px;
+    display: flex;
+    align-items: center;
+    line-height: 20px;
+    background-color: #333;
+}
+
+i {
+    font-size: 36px;
+    color: white;
+    padding: 5px;
+    align-items: center;
+    float: center;
+        
+}
